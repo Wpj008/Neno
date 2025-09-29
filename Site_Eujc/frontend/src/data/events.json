@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Culte Dominical",
+    "date": "2025-12-21",
+    "time": "09:00",
+    "location": "Sanctuaire Principal",
+    "description": "Rejoignez-nous pour notre culte dominical avec louange, prédication et communion fraternelle.",
+    "type": "culte",
+    "recurring": true
+  },
+  {
+    "id": 2,
+    "title": "Étude Biblique - Les Épîtres de Paul",
+    "date": "2025-08-05",
+    "time": "16:30",
+    "location": "Salle de Conférence",
+    "description": "Approfondissement des enseignements de l'apôtre Paul à travers ses épîtres. Ouvert à tous les niveaux.",
+    "type": "etude",
+    "recurring": true
+  },
+  {
+    "id": 3,
+    "title": "Soirée de Prière et Intercession",
+    "date": "2025-08-07",
+    "time": "20:00",
+    "location": "Chapelle",
+    "description": "Temps de prière collective pour notre communauté, nos familles et notre nation.",
+    "type": "priere",
+    "recurring": true
+  },
+  {
+    "id": 4,
+    "title": "Conférence : 'La Foi en Action'",
+    "date": "2025-08-15",
+    "time": "14:00",
+    "location": "Auditorium",
+    "description": "Conférence spéciale avec le Pasteur Jean-Pierre Martin sur comment vivre sa foi au quotidien.",
+    "type": "conference",
+    "recurring": false
+  },
+  {
+    "id": 5,
+    "title": "Journée des Familles",
+    "date": "2025-08-17",
+    "time": "11:00",
+    "location": "Parc Communautaire",
+    "description": "Pique-nique, jeux pour enfants, et temps de partage entre familles de l'église.",
+    "type": "famille",
+    "recurring": false
+  },
+  {
+    "id": 6,
+    "title": "Retraite Spirituelle de Jeunesse",
+    "date": "2025-08-23",
+    "time": "09:00",
+    "location": "Centre de Retraite Bethel",
+    "description": "Week-end de retraite pour les jeunes de 16 à 30 ans. Thème: 'Découvrir ma vocation'.",
+    "type": "jeunesse",
+    "recurring": false
+  }
+]

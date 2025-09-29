@@ -1,0 +1,143 @@
+/* Styles personnalisés pour EUJC */
+
+/* Variables CSS pour la palette de couleurs */
+:root {
+  --deep-blue: #0E2A47;
+  --soft-gold: #C9A227;
+  --ivory: #F7F4ED;
+  --anthracite: #1F1F1F;
+}
+
+/* Polices personnalisées */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Classe utilitaires personnalisées */
+.font-serif {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+}
+
+.text-deep-blue {
+  color: var(--deep-blue);
+}
+
+.text-soft-gold {
+  color: var(--soft-gold);
+}
+
+.text-ivory {
+  color: var(--ivory);
+}
+
+.text-anthracite {
+  color: var(--anthracite);
+}
+
+.bg-deep-blue {
+  background-color: var(--deep-blue);
+}
+
+.bg-soft-gold {
+  background-color: var(--soft-gold);
+}
+
+.bg-ivory {
+  background-color: var(--ivory);
+}
+
+.bg-anthracite {
+  background-color: var(--anthracite);
+}
+
+/* Effets de hover personnalisés */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Animations personnalisées */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+/* Style pour les cartes de service */
+.service-card {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  border-color: var(--soft-gold);
+  box-shadow: 0 8px 25px rgba(201, 162, 39, 0.15);
+}
+
+/* Style pour les boutons CTA */
+.btn-primary {
+  background-color: var(--deep-blue);
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #1a3a5c;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(14, 42, 71, 0.3);
+}
+
+.btn-secondary {
+  background-color: var(--soft-gold);
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #b8931f;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(201, 162, 39, 0.3);
+}
+
+/* Responsive breakpoints personnalisés */
+@media (max-width: 768px) {
+  .mobile-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Accessibilité - focus visible */
+.focus-visible {
+  outline: 2px solid var(--soft-gold);
+  outline-offset: 2px;
+}
+
+/* Styles pour les images avec lazy loading */
+.lazy-image {
+  transition: opacity 0.3s ease;
+}
+
+.lazy-image[data-loaded="false"] {
+  opacity: 0;
+}
+
+.lazy-image[data-loaded="true"] {
+  opacity: 1;
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Maman Berme MILEMBA",
+    "role": "Coordonatrice de la Chefferie Spirituelle",
+    "ministry": "Bureau Supreme",
+    "email": "b.milemba@eujc.fr",
+    "phone": "+243 1 23 45 67 89",
+    "description": "Coordinatrice de la Chefferie Spirituelle, veillant à l’unité doctrinale et à l’harmonie entre les ministères.."
+  },
+  {
+    "id": 2,
+    "name": "Apôtre Boniface LUMPUNGU",
+    "role": "Représentant Légal",
+    "ministry": "Bureau Supreme",
+    "email": "b.lupungu@eujc.fr",
+    "phone": "+243 1 23 45 67 81",
+    "description": "Représentant légal de l’Église Universelle de Jésus-Christ, veille à la bonne gouvernance et à la fidélité de la vision de l'église."
+  },
+  {
+    "id": 3,
+    "name": "Apôtre Pierre KABENA",
+    "role": "Secrétaire Général",
+    "ministry": "Bureau Supreme",
+    "email": "p.kabena@eujc.fr",
+    "phone": "+243 1 23 45 67 82",
+    "description": "Chargé de la gestion administrative et de la coordination des activités internes, le Secrétaire Général veille au bon fonctionnement organisationnel de l’Église. "
+                
+  },
+  {
+    "id": 4,
+    "name": "Apôtre Dede KAYEMBE",
+    "role": "Représentant du Siège Politique",
+    "ministry": "Representant Provincial",
+    "email": "d.kayembe@eujc.fr",
+    "phone": "+243 1 23 45 67 83",
+    "description": "Le représentant du siège politique agit comme lien entre l’Église et les instances publiques. Il défend les intérêts institutionnels tout en portant les valeurs spirituelles dans la société."
+  },
+  {
+    "id": 5,
+    "name": "Apôtre 1",
+    "role": "Représentant du Siège Economique",
+    "ministry": "Representant Provincial",
+    "email": "p.repro1@eujc.fr",
+    "phone": "+243 1 23 45 67 84",
+    "description": "Représentant du Siège Economique..."
+  },
+  {
+    "id": 6,
+    "name": "Apôtre 2",
+    "role": "Représentant du Siège Spirituel",
+    "ministry": "Representant Provincial",
+    "email": "p.repro2@eujc.fr",
+    "phone": "+243 1 23 45 67 85",
+    "description": "Représentant du Siège Spirituel..."
+  },
+  {
+    "id": 7,
+    "name": "Apotre 3",
+    "role": "Représentant Régional dans le Siège Politique",
+    "ministry": "Representant Regional",
+    "email": "p.region1@eujc.fr",
+    "phone": "+243 1 23 45 67 86",
+    "description": "Représentant Régional..."
+  },
+  {
+    "id": 8,
+    "name": "Apotre 4",
+    "role": "Représentant Régional dans le Siège Economique",
+    "ministry": "Representant Regional",
+    "email": "p.region2@eujc.fr",
+    "phone": "+33 1 23 45 67 87",
+    "description": "Représentant Régional.."
+  }
+]
