@@ -38,8 +38,8 @@ const OrgChart = () => {
   const ministries = [
     { value: 'all', label: 'Tous les représentants' },
     { value: 'bureau', label: 'Bureau Supreme' },
-    { value: 'provincial', label: 'Representant Provincial' },
-    { value: 'regional', label: 'Representant Regional' },
+    { value: 'provincial', label: 'Représentant Provincial' },
+    { value: 'régional', label: 'Représentant Regional' },
     { value: 'jeunesse', label: 'Ministère de la Jeunesse' },
     { value: 'évangélisation', label: "Ministère d'Évangélisation" },
     { value: 'enfance', label: "Ministère de l'Enfance" },
