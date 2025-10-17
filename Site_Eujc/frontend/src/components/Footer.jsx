@@ -58,7 +58,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center text-gray-300">
                 <MapPin className="h-5 w-5 mr-3 text-blue-400 flex-shrink-0" />
-                <span className="text-sm">2 Avenue Kingabwa, C/Limete</span>
+                <span className="text-sm">MUNGU NI MUNGU 2 Avenue Kingabwa, C/Limete</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <Phone className="h-5 w-5 mr-3 text-blue-400 flex-shrink-0" />
