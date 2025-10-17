@@ -65,7 +65,7 @@ const Events = () => {
   const eventTypes = [
     { value: 'all', label: 'Tous les événements' },
     { value: 'culte', label: 'Cultes' },
-    { value: 'etude', label: 'Études bibliques' },
+    { value: 'etude', label: 'Enseignement bibliques' },
     { value: 'priere', label: 'Prière' },
     { value: 'conference', label: 'Conférences' },
     { value: 'famille', label: 'Famille' },
