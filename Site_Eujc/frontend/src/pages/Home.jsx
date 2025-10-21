@@ -26,20 +26,36 @@ const Home = () => {
 
   const galleryImages = [
     {
-      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUY8uAKJ32USG48qk3f0TJemm2eL1lZl7AJnCs6i5SDI5H5V-zg8ld_nmkUq2amQkHac&usqp=CAU",
+      src: "/images/image1.jpg",
       alt: "Communauté EUJC - Accueil chaleureux"
     },
     {
-      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A6-1cQGpYWdz_McVsBHuNJO5PLHDyeRA3PqY_Ogh0v7qTHX_7oNEqlGUrtx0HDkD2mE&usqp=CAU",
-      alt: "Étude biblique - Méditation "
+      src: "/images/image2.jpg",
+      alt: "Communauté EUJC -  Visite du Représentant Légal"
     },
     {
-      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfLsberRzhmeVWEAaVAyjbL9XssQFSBBuQQ&s",
+      src: "/images/image3.jpg",
+      alt: "Communauté EUJC - Accueil chaleureux"
+    },
+    {
+      src: "/images/image4.jpg",
+      alt: "Communauté EUJC -  Visite du Représentant Légal"
+    },
+    {
+      src: "/images/image5.jpg",
+      alt: "Communauté EUJC - Accueil chaleureux"
+    },
+    {
+      src: "/images/image6.jpg",
       alt: "Fellowship - Communion fraternelle"
     },
     {
-      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHMDrwbUFJgXE6njap6Myaw0HbulLhpk9kF_d3ANNX1qDJHo3Lworrn2WBhgAEhTNg8Q&usqp=CAU",
-      alt: "Parole de Dieu - Écritures saintes"
+      src: "/images/image7.jpg",
+     alt: "Étude biblique - Méditation "
+    },
+    {
+      src: "/images/image8.jpg",
+     alt: "Fellowship - Communion fraternelle"
     }
   ];
 

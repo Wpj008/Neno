@@ -7,9 +7,9 @@ const Contact = () => {
 VERSION:3.0
 FN:Église Universelle de Jésus-Christ
 ORG:EUJC
-TEL:+33123456789
+TEL:+243 998 430 792
 EMAIL:contact@eujc.fr
-ADR:;;123 Avenue de la Paix;Paris;;75001;France
+ADR:;;AV/ Kalembe Lembe,  N°: 184;Commune de Lingwala;Kinshasa
 URL:https://www.eujc.fr
 END:VCARD`;
 
@@ -57,8 +57,8 @@ END:VCARD`;
                   <div>
                     <h3 className="font-semibold text-deep-blue mb-1">Adresse</h3>
                     <p className="text-gray-600">
-                      2 Avenue Kingabwa<br />
-                      C/Limete, Kinshasa
+                    AV/ Kalembe Lembe,  N°: 184<br />
+                    Commune de Lingwala, Kinshasa
                     </p>
                   </div>
                 </div>
@@ -73,7 +73,7 @@ END:VCARD`;
                       href="tel:+33123456789"
                       className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
                     >
-                      +243 1 23 45 67 89
+                      +243 998 430 792
                     </a>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ END:VCARD`;
                       href="mailto:contact@eujc.fr?subject=Demande d'information – EUJC"
                       className="text-gray-600 hover:text-blue-600 transition-colors duration-200"
                     >
-                      contact@eujc.fr
+                      eujc.officiel@gmail.com
                     </a>
                   </div>
                 </div>
@@ -142,7 +142,7 @@ END:VCARD`;
               
               <div className="bg-gray-100 rounded-xl overflow-hidden shadow-lg">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9914406081495!2d2.3422064156745785!3d48.858844379287054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671d877937b0f%3A0xb975fcfa192f84d4!2sLouvre%20Museum!5e0!3m2!1sen!2sfr!4v1625745644021!5m2!1sen!2sfr"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1611.1113452204713!2d15.34205995389313!3d-4.335375048364142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a370078809ec7%3A0x92b6255e8fe952!2s%C3%89glise%20Universelle%20de%20Jesus-%20mchrist!5e0!3m2!1sfr!2sfr!4v1761033074244!5m2!1sfr!2sfr" 
                   width="100%"
                   height="400"
                   style={{ border: 0 }}

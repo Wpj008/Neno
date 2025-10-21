@@ -58,21 +58,21 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center text-gray-300">
                 <MapPin className="h-5 w-5 mr-3 text-blue-400 flex-shrink-0" />
-                <span className="text-sm"> 2 Avenue Kingabwa, C/Limete</span>
+                <span className="text-sm"> AV/ Kalembe Lembe,  N°: 184, Commune de Lingwala</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <Phone className="h-5 w-5 mr-3 text-blue-400 flex-shrink-0" />
                 <a href="tel:+33123456789" className="text-sm hover:text-white transition-colors duration-200">
-                  +243 1 23 45 67 89
+                  +243 998 430 792
                 </a>
               </div>
               <div className="flex items-center text-gray-300">
                 <Mail className="h-5 w-5 mr-3 text-blue-400 flex-shrink-0" />
                 <a 
-                  href="mailto:contact@eujc.fr?subject=Demande d'information – EUJC" 
+                  href="mailto:eujc.officiel@gmail.com?subject=Demande d'information – EUJC" 
                   className="text-sm hover:text-white transition-colors duration-200"
                 >
-                  contact@eujc.fr
+                  eujc.officiel@gmail.com
                 </a>
               </div>
             </div>
