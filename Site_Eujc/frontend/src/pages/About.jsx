@@ -26,19 +26,21 @@ const About = () => {
   ];
 
   const pastoralTeam = [
+    
+     {
+      name: "Maman Berme MILEMBA ",
+      role: "Coordonatrice de la Chefferie Spirituelle",
+      description: "Madame Berme, Coordinatrice de la Chefferie Spirituelle, assure la liaison entre les ministères avec rigueur et discernement. Elle veille à l’unité doctrinale et au bon fonctionnement des instances spirituelles.",
+      image: "https://i.ytimg.com/vi/YIDoe5qkE6c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdyiC3vAZ1slrXbErIJI7gwXev3g"
+    },
     {
       name: "Apôtre Boniface LUMPUNGU",
       role: "Représentant Légal",
       description: "L'Apôtre Boniface, Représentant Légal de l'Église Universelle de Jésus-Christ, incarne l'autorité administrative de notre communauté. Par sa sagesse et son dévouement.",
                     
       image: "https://eujc.church/relegal%20Boniface.jpg"
-    },
-    {
-      name: "Maman Berme MILEMBA ",
-      role: "Coordonatrice de la Chefferie Spirituelle",
-      description: "Madame Berme, Coordinatrice de la Chefferie Spirituelle, assure la liaison entre les ministères avec rigueur et discernement. Elle veille à l’unité doctrinale et au bon fonctionnement des instances spirituelles.",
-      image: "https://i.ytimg.com/vi/YIDoe5qkE6c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdyiC3vAZ1slrXbErIJI7gwXev3g"
     }
+
   ];
 
   return (
