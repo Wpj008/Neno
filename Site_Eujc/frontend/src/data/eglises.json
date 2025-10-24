@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Station Principale - Kinshasa",
+    "ville": "Kinshasa",
+    "responsable": "Pasteur Jean M.",
+    "adresse": "12, Avenue Kasa-Vubu, Kinshasa",
+    "horaire": "Dimanche 09h - 12h",
+    "description": "Église mère de l’EUJC, lieu de rassemblement principal pour les cultes et séminaires.",
+    "type": "kinshasa"
+  },
+  {
+    "id": 2,
+    "name": "Station Nazareth (Paris)",
+    "ville": "Paris",
+    "responsable": "Pasteur Adonis Ilunga",
+    "adresse": "29 Rue Sadi Carnot, 93300 Aubervilliers",
+    "horaire": "Dimanche 12h - 15h",
+    "description": "Communauté vivante au cœur de Paris, ouverte à tous pour la louange et la prière.",
+    "type": "paris"
+  },
+  {
+    "id": 3,
+    "name": "Station EUJC Bruxelles",
+    "ville": "Bruxelles",
+    "responsable": "Pasteur Michel K.",
+    "adresse": "Rue Royale 45, 1000 Bruxelles",
+    "horaire": "Dimanche 09h30 - 12h30",
+    "description": "Église dynamique axée sur la jeunesse et les familles, située au centre-ville.",
+    "type": "bruxelles"
+  },
+  {
+    "id": 4,
+    "name": "Station EUJC Montréal",
+    "ville": "Montréal",
+    "responsable": "Pasteur Grâce T.",
+    "adresse": "325 Rue Saint-Denis, Montréal, QC",
+    "horaire": "Dimanche 10h - 12h",
+    "description": "Communauté francophone de l’EUJC au Canada, prônant l’unité et la foi.",
+    "type": "montreal"
+  }
+]
