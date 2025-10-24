@@ -11,6 +11,7 @@ const Navbar = () => {
     { name: 'Qui sommes-nous', href: '/qui-sommes-nous' },
     { name: 'Événements', href: '/evenements' },
     { name: 'Organigramme', href: '/organigramme' },
+    { name: 'Nos Eglises', href: '/nos-eglises' },
     { name: 'Nous contacter', href: '/nous-contacter' }
   ];
 

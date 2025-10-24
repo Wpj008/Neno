@@ -9,6 +9,7 @@ import Events from "./pages/Events";
 import OrgChart from "./pages/OrgChart";
 import Contact from "./pages/Contact";
 import "./assets/styles.css";
+import Eglises from "./pages/Eglises";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/qui-sommes-nous" element={<About />} />
             <Route path="/evenements" element={<Events />} />
             <Route path="/organigramme" element={<OrgChart />} />
+            <Route path="/nos-eglises" element={<Eglises />} />
             <Route path="/nous-contacter" element={<Contact />} />
           </Routes>
         </main>
