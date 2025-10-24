@@ -5,6 +5,8 @@
     "ville": "Kinshasa",
     "responsable": "Pasteur Jean M.",
     "adresse": "12, Avenue Kasa-Vubu, Kinshasa",
+    "telephone": "+243 97 123 4567",
+    "email": "kinshasa@eujc.fr",
     "horaire": "Dimanche 09h - 12h",
     "description": "Église mère de l’EUJC, lieu de rassemblement principal pour les cultes et séminaires.",
     "type": "kinshasa"
@@ -15,6 +17,8 @@
     "ville": "Paris",
     "responsable": "Pasteur Adonis Ilunga",
     "adresse": "29 Rue Sadi Carnot, 93300 Aubervilliers",
+    "telephone": "+33 7 56 89 1234",
+    "email": "paris@eujc.fr",
     "horaire": "Dimanche 12h - 15h",
     "description": "Communauté vivante au cœur de Paris, ouverte à tous pour la louange et la prière.",
     "type": "paris"
@@ -25,6 +29,8 @@
     "ville": "Bruxelles",
     "responsable": "Pasteur Michel K.",
     "adresse": "Rue Royale 45, 1000 Bruxelles",
+    "telephone": "+32 490 12 34 56",
+    "email": "bruxelles@eujc.fr",
     "horaire": "Dimanche 09h30 - 12h30",
     "description": "Église dynamique axée sur la jeunesse et les familles, située au centre-ville.",
     "type": "bruxelles"
@@ -35,6 +41,8 @@
     "ville": "Montréal",
     "responsable": "Pasteur Grâce T.",
     "adresse": "325 Rue Saint-Denis, Montréal, QC",
+    "telephone": "+1 514 678 9012",
+    "email": "montreal@eujc.fr",
     "horaire": "Dimanche 10h - 12h",
     "description": "Communauté francophone de l’EUJC au Canada, prônant l’unité et la foi.",
     "type": "montreal"

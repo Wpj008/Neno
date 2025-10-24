@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MapPin, Users, Clock, BookOpen, Home } from 'lucide-react';
+import { MapPin, Users, Clock, BookOpen, Home, Phone, Mail  } from 'lucide-react';
 import eglisesData from '../data/eglises.json';
 
 const Eglises = () => {
@@ -99,6 +99,17 @@ const Eglises = () => {
                         <Clock className="w-4 h-4 mr-2 text-soft-gold" />
                         <span className="text-sm">{eglise.horaire}</span>
                       </div>
+
+                      <div className="flex items-center text-gray-600">
+                        <Phone className="w-4 h-4 mr-2 text-soft-gold" />
+                        <span className="text-sm">{eglise.telephone}</span>
+                    </div>
+                    <div className="flex items-center text-gray-600">
+                        <Mail className="w-4 h-4 mr-2 text-soft-gold" />
+                        <a href={`mailto:${eglise.email}`} className="text-sm text-blue-700 hover:underline">
+                            {eglise.email}
+                        </a>
+                    </div>
                     </div>
 
                     <p className="text-gray-600 text-sm leading-relaxed mb-4">
